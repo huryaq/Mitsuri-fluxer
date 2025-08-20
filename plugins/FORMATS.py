@@ -38,8 +38,11 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 ‣ /help -</b> Oᴘᴇɴ ᴛʜɪs ʜᴇʟᴘ ᴍᴇssᴀɢᴇ !</blockquote>
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
-ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» 𝐎ᴡɴᴇʀ: <a href=https://t.me/DoraShin_hlo>Gojo</a>\n» 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/HellFire_Academy>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Adult_Flux>𝐀ᴅᴜʟᴛ 𝐅ʟᴜx</a></blockquote></b>"""
+ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ:</b> {botname}
+
+<b>» 𝐎ᴡɴᴇʀ:</b> <a href="https://t.me/DoraShin_hlo">Gojo</a>
+<b>» 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ:</b> <a href="https://t.me/HellFire_Academy">𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>
+<b>» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ:</b> <a href="https://t.me/Adult_Flux">𝐀ᴅᴜʟᴛ 𝐅ʟᴜx</a>"""
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
 » ᴛᴏᴛᴀʟ ᴀᴅᴍɪɴs:  <b>{total_admin}</b>
@@ -147,3 +150,4 @@ CLEAR_LINKS_TXT = """<b>What is the use of Clear Links !?</b>
 
 
 # +++ Made By Gojo [telegram username: @DoraShin_hlo] +++
+ 
