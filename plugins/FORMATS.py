@@ -2,13 +2,13 @@
 
 #text formatting....
 
-on_pic = "https://envs.sh/ufx.jpg"
+on_pic = "https://envs.sh/uf6.jpg"
 off_pic = "https://envs.sh/uf-.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
 #start message
-START_MSG = """<b>›› ʜᴇʏ!!, {mention} ~\n\n<blockquote expandable>ʟᴏᴠᴇ ᴛᴏ ᴡᴀᴛᴄʜ ʜᴀɴɪᴍᴇ ᴀɴᴅ ʜᴇᴍᴛᴀɪ? ɪ ᴀᴍ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ғɪɴᴅ ᴡʜᴀᴛ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ.</blockquote></b>"""
+START_MSG = """<b>›› ʜᴇʏ!!, {mention} ~\n\n<blockquote expandable>ʟᴏᴠᴇ ᴛᴏ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ sᴇʀɪᴇs ᴀɴᴅ ᴍᴏᴠɪᴇs? ɪ ᴀᴍ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ғɪɴᴅ ᴡʜᴀᴛ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ.</blockquote></b>"""
 
 #Force sub message 
 FORCE_MSG = """<b>›› ʜᴇʏ {mention} ×,\n\n<blockquote expandable>  ʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ ‼️ ʟᴏᴏᴋs ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ sᴜʙsᴄʀɪʙᴇᴅ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʏᴇᴛ, sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ғɪʟᴇs.</blockquote></b>"""
@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a>\n» 𝐇ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Adult_Flux>𝐀ᴅᴜʟᴛ 𝐅ʟᴜx</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HellFire_Academy>𝐇ᴇʟʟғɪʀᴇ 𝐀ᴄᴀᴅᴇᴍʏ</a>\n» 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Adult_Flux>𝐀ᴅᴜʟᴛ 𝐅ʟᴜx</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
